@@ -15,4 +15,3 @@
 - Express.js
 - MongoDB Atlas
 - JWT Authentication
-
